@@ -1,0 +1,210 @@
+{
+  "Perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Quais são os principais objetivos da política fiscal em Angola?",
+      "opcoes": [
+        "Aumentar o gasto público e controlar a inflação",
+        "Arrecadação de receitas para financiar as despesas públicas, redistribuição de renda e estabilização econômica",
+        "Promover o crescimento econômico sem considerar a inflação",
+        "Reduzir impostos e aumentar a dívida pública"
+      ],
+      "respostaCorreta": "Arrecadação de receitas para financiar as despesas públicas, redistribuição de renda e estabilização econômica"
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o prato típico mais conhecido de Angola?",
+      "opcoes": ["Feijoada", "Calulu", "Picanha", "Moqueca"],
+      "respostaCorreta": "Calulu"
+    },
+    {
+      "id": 3,
+      "pergunta": "O que é o Orçamento Geral do Estado (OGE) e qual a sua importância?",
+      "opcoes": [
+        "Um plano de marketing para o governo",
+        "Um documento que estima as receitas e fixa as despesas públicas para um determinado exercício financeiro",
+        "Uma lista de desejos do governo para o ano",
+        "Um relatório sobre a dívida pública"
+      ],
+      "respostaCorreta": "Um documento que estima as receitas e fixa as despesas públicas para um determinado exercício financeiro"
+    },
+    {
+      "id": 4,
+      "pergunta": "Como é estruturado o sistema bancário em Angola?",
+      "opcoes": [
+        "Apenas por bancos comerciais",
+        "Banco Nacional de Angola (BNA), bancos comerciais, bancos de desenvolvimento, bancos de poupança e outras instituições financeiras",
+        "Somente pelo Banco Nacional de Angola",
+        "Por bancos estrangeiros"
+      ],
+      "respostaCorreta": "Banco Nacional de Angola (BNA), bancos comerciais, bancos de desenvolvimento, bancos de poupança e outras instituições financeiras"
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual é a função do Banco Nacional de Angola (BNA)?",
+      "opcoes": [
+        "Gerenciar as operações do mercado de ações",
+        "Política monetária, emissão de moeda, supervisão do sistema financeiro e manutenção da estabilidade financeira",
+        "Realizar auditorias em empresas",
+        "Controlar apenas os bancos comerciais"
+      ],
+      "respostaCorreta": "Política monetária, emissão de moeda, supervisão do sistema financeiro e manutenção da estabilidade financeira"
+    },
+    {
+      "id": 6,
+      "pergunta": "Quais são os principais desafios enfrentados pela economia angolana?",
+      "opcoes": [
+        "Dependência do setor agrícola",
+        "Diversificação da economia, redução da dependência do petróleo, inflação, desemprego e melhoria da infraestrutura",
+        "Excesso de exportações",
+        "Baixa taxa de natalidade"
+      ],
+      "respostaCorreta": "Diversificação da economia, redução da dependência do petróleo, inflação, desemprego e melhoria da infraestrutura"
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual é a língua oficial de Angola?",
+      "opcoes": ["Francês", "Português", "Inglês", "Espanhol"],
+      "respostaCorreta": "Português"
+    },
+    {
+      "id": 8,
+      "pergunta": "Quais são os principais indicadores econômicos utilizados em Angola?",
+      "opcoes": [
+        "Taxa de natalidade e mortalidade",
+        "Produto Interno Bruto (PIB), taxa de inflação, taxa de câmbio, taxa de desemprego e balança comercial",
+        "Quantidade de turistas",
+        "Número de universidades"
+      ],
+      "respostaCorreta": "Produto Interno Bruto (PIB), taxa de inflação, taxa de câmbio, taxa de desemprego e balança comercial"
+    },
+    {
+      "id": 9,
+      "pergunta": "Como funciona o mercado de câmbio em Angola?",
+      "opcoes": [
+        "É controlado apenas pelo governo estrangeiro",
+        "É regulado pelo BNA, com taxas de câmbio flutuantes ou fixas e intervenções para manter a estabilidade do Kwanza",
+        "Funciona como uma bolsa de valores",
+        "Não existe regulação"
+      ],
+      "respostaCorreta": "É regulado pelo BNA, com taxas de câmbio flutuantes ou fixas e intervenções para manter a estabilidade do Kwanza"
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual é a capital de Angola?",
+      "opcoes": ["Luanda", "Lobito", "Benguela", "Huambo"],
+      "respostaCorreta": "Luanda"
+    },
+    {
+      "id": 11,
+      "pergunta": "Como a inflação impacta a economia de Angola?",
+      "opcoes": [
+        "Aumenta o valor das exportações",
+        "Reduz o poder de compra, aumenta os custos de produção, desestimula investimentos e pode levar a políticas de ajuste fiscal e monetário",
+        "Promove crescimento econômico",
+        "Estabiliza os preços"
+      ],
+      "respostaCorreta": "Reduz o poder de compra, aumenta os custos de produção, desestimula investimentos e pode levar a políticas de ajuste fiscal e monetário"
+    },
+    {
+      "id": 12,
+      "pergunta": "Quais são as principais fontes de receita do governo angolano?",
+      "opcoes": [
+        "Turismo e exportação de frutas",
+        "Impostos sobre o rendimento, impostos sobre o consumo (IVA), impostos sobre o comércio internacional e receitas do setor petrolífero",
+        "Produção agrícola",
+        "Importação de bens"
+      ],
+      "respostaCorreta": "Impostos sobre o rendimento, impostos sobre o consumo (IVA), impostos sobre o comércio internacional e receitas do setor petrolífero"
+    },
+    {
+      "id": 13,
+      "pergunta": "O que é a política monetária e quem a executa em Angola?",
+      "opcoes": [
+        "Ações para aumentar a exportação de petróleo, executadas pelo Ministério da Energia",
+        "Ações do banco central para controlar a oferta de dinheiro e taxas de juros, executada pelo Banco Nacional de Angola (BNA)",
+        "Medidas para reduzir a importação, executadas pelo governo",
+        "Políticas para atrair turistas, executadas pelo Ministério do Turismo"
+      ],
+      "respostaCorreta": "Ações do banco central para controlar a oferta de dinheiro e taxas de juros, executada pelo Banco Nacional de Angola (BNA)"
+    },
+    {
+      "id": 14,
+      "pergunta": "Como é calculado o Produto Interno Bruto (PIB) de Angola?",
+      "opcoes": [
+        "Baseado no total de exportações",
+        "Soma do valor de todos os bens e serviços finais produzidos no país durante um ano, ajustado pela inflação",
+        "Total de impostos arrecadados",
+        "Soma do valor das importações"
+      ],
+      "respostaCorreta": "Soma do valor de todos os bens e serviços finais produzidos no país durante um ano, ajustado pela inflação"
+    },
+    {
+      "id": 15,
+      "pergunta": "Quais são os principais setores da economia angolana?",
+      "opcoes": [
+        "Tecnologia e turismo",
+        "Setor petrolífero, agricultura, mineração, construção civil e serviços",
+        "Indústria automotiva e turismo",
+        "Produção de eletrônicos e agricultura"
+      ],
+      "respostaCorreta": "Setor petrolífero, agricultura, mineração, construção civil e serviços"
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual é a dança tradicional mais conhecida de Angola?",
+      "opcoes": ["Samba", "Kizomba", "Tango", "Flamenco"],
+      "respostaCorreta": "Kizomba"
+    },
+    {
+      "id": 17,
+      "pergunta": "Como a diversificação econômica pode beneficiar Angola?",
+      "opcoes": [
+        "Aumentando a produção de petróleo",
+        "Reduzindo a dependência do petróleo, criando mais empregos, estabilizando a economia e aumentando a resiliência a choques externos",
+        "Diminuindo a produção agrícola",
+        "Aumentando a dependência do mercado externo"
+      ],
+      "respostaCorreta": "Reduzindo a dependência do petróleo, criando mais empregos, estabilizando a economia e aumentando a resiliência a choques externos"
+    },
+    {
+      "id": 18,
+      "pergunta": "O que são reservas internacionais e por que são importantes?",
+      "opcoes": [
+        "Dinheiro guardado em bancos comerciais",
+        "Ativos em moedas estrangeiras detidos pelo banco central, importantes para garantir a estabilidade da moeda, pagamento de dívidas externas e intervenções no mercado cambial",
+        "Investimentos em imóveis",
+        "Fundos para pagar salários do governo"
+      ],
+      "respostaCorreta": "Ativos em moedas estrangeiras detidos pelo banco central, importantes para garantir a estabilidade da moeda, pagamento de dívidas externas e intervenções no mercado cambial"
+    },
+    {
+      "id": 19,
+      "pergunta": "Quais são os principais desafios na gestão das finanças públicas em Angola?",
+      "opcoes": [
+        "Falta de recursos naturais",
+        "Necessidade de maior transparência, combate à corrupção, eficiência na arrecadação de receitas e controle rigoroso dos gastos públicos",
+        "Excesso de exportações",
+        "Baixa taxa de natalidade"
+      ],
+      "respostaCorreta": "Necessidade de maior transparência, combate à corrupção, eficiência na arrecadação de receitas e controle rigoroso dos gastos públicos"
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual é o rio mais longo que atravessa Angola?",
+      "opcoes": ["Rio Amazonas", "Rio Zambeze", "Rio Congo", "Rio Cuanza"],
+      "respostaCorreta": "Rio Cuanza"
+    }
+  ],
+  "Cliente": [
+    {
+      "nome": "Maria",
+      "email": "maria@example.com",
+      "telefone": "948408702",
+      "endereco": "Rua 1, 100",
+      "cidade": "Luanda",
+      "estado": "Angola",
+      "cep": "24000-000"
+    }
+  ]
+}

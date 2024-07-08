@@ -1,0 +1,77 @@
+.login_Layout {
+  max-width: 100%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  z-index: 0;
+}
+
+.Texts {
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ffa900;
+  padding: 5px;
+  animation: colorBorder infinite 4s;
+}
+@keyframes colorBorder {
+  0% {
+    border-bottom: 1px solid #ffa900;
+  }
+  50% {
+    border-bottom: 1px solid #222222;
+  }
+  100% {
+    border-bottom: 1px solid #ffa900;
+  }
+}
+.Formulario {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  background: var(--cor-cinza-90, rgb(34, 34, 34));
+  box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 80px;
+  flex-direction: column;
+  opacity: 0.9;
+  z-index: -1;
+}
+.Formulario form .div1,
+.div2,
+.div3 {
+  display: flex;
+  flex-direction: column;
+  margin: 1em;
+}
+.Formulario .inputs {
+  padding: 5px 30px;
+  border-radius: 5px;
+  border: none;
+}
+.Formulario .div3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em;
+}
+.Formulario .div3 a {
+  color: #fff;
+  cursor: pointer;
+}
+.Formulario .div3 .buttonEntrar {
+  width: 150px;
+  padding: 5px;
+  color: #fff;
+  margin-top: 1em;
+  background-color: #ffa900;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.erroLogin {
+  text-align: center;
+  color: rgb(165, 52, 52);
+}
